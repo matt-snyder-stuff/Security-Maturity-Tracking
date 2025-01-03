@@ -1,6 +1,6 @@
 # Security Maturity Project Overview
 
-Welcome to the **Security Maturity Project Tracking** GitHub page! This project aims to provide a comprehensive overview of the organization's security maturity across various domains, helping stakeholders monitor, plan, and enhance security capabilities over time.
+Welcome to the **Security Maturity Tracking Project** GitHub page! This project aims to provide a comprehensive overview of the organization's security maturity across various domains, helping stakeholders monitor, plan, and enhance security capabilities over time.
 
 
 ## Program Overview
@@ -23,7 +23,7 @@ This table shows the current maturity levels, target goals, and the progress for
 
 ## Individual Aspects of the Program
 
-The **Security Maturity Project Tracking** also provides insights into the individual aspects of the program, breaking down the work into specific capabilities and sub-items over time.
+The **Security Maturity Tracking Project** also provides insights into the individual aspects of the program, breaking down the work into specific capabilities and sub-items over time.
 
 ### Example: SIEM Maturity - Year 1
 
@@ -39,9 +39,9 @@ This monthly breakdown provides a detailed plan to improve each security capabil
 ## Tools for Evaluating Security Capabilities
 
 ### Tool Usage
-The evaluation tools included in the **Security Maturity Project Tracking** are designed to help users systematically assess security technologies. These tools provide structured frameworks and criteria for evaluating each domain, enabling users to identify strengths, weaknesses, and areas for improvement efficiently.
+The evaluation tools included in the **Security Maturity Tracking Project** are designed to help users systematically assess security technologies. These tools provide structured frameworks and criteria for evaluating each domain, enabling users to identify strengths, weaknesses, and areas for improvement efficiently.
 
-The **Security Maturity Project Tracking** also includes tools to help evaluate various security technologies, including:
+The **Security Maturity Tracking Project** also includes tools to help evaluate various security technologies, including:
 
 - **SIEM (Security Information and Event Management)**
 - **Email Security**
@@ -52,7 +52,7 @@ These evaluation tools assist in assessing the maturity and effectiveness of eac
 
 ## Conclusion
 
-The **Security Maturity Project Tracking** is an essential tool for helping your organization mature its security capabilities, streamline processes, and achieve your security goals effectively. By providing tools to evaluate technologies such as **SIEM**, **Email Security**, **Network Security**, and **EDR**, this matrix enables you to systematically assess and enhance each domain, identify gaps, and create targeted improvement plans.
+The **Security Maturity Tracking Project** is an essential tool for helping your organization mature its security capabilities, streamline processes, and achieve your security goals effectively. By providing tools to evaluate technologies such as **SIEM**, **Email Security**, **Network Security**, and **EDR**, this matrix enables you to systematically assess and enhance each domain, identify gaps, and create targeted improvement plans.
 
 With visual progress tracking and structured evaluations, stakeholders can easily understand the current status and make informed decisions, ensuring that your security posture evolves in alignment with your organization's needs.
 
