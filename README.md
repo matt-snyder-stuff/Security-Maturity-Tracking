@@ -1,6 +1,6 @@
 # Security Maturity Project Overview
 
-Welcome to the **Security Maturity Project Tracking ** GitHub page! This project aims to provide a comprehensive overview of the organization's security maturity across various domains, helping stakeholders monitor, plan, and enhance security capabilities over time.
+Welcome to the **Security Maturity Project Tracking** GitHub page! This project aims to provide a comprehensive overview of the organization's security maturity across various domains, helping stakeholders monitor, plan, and enhance security capabilities over time.
 
 
 ## Program Overview
