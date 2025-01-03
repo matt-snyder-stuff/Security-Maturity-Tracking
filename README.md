@@ -2,7 +2,6 @@
 
 Welcome to the **Security Maturity Tracking Project** GitHub page! This project aims to provide a comprehensive overview of the organization's security maturity across various domains, helping stakeholders monitor, plan, and enhance security capabilities over time.
 
-
 ## Program Overview
 
 The **Program Overview** provides a high-level view of the maturity levels across all security domains. This status is represented using a scoring system that tracks progress from **Initial** to **Leading** levels for each capability.
@@ -38,7 +37,17 @@ This monthly breakdown provides a detailed plan to improve each security capabil
 
 ## Tools for Evaluating Security Capabilities
 
+### CSV Files for Progress Tracking
+
+This project includes two example files to help you get started:
+
+- [**Blank Tracker**](https://github.com/matt-snyder-stuff/Security-Maturity-Tracking/blob/main/Security%20Program%20Tracking%20Blank.xlsx): A blank template to create your own tracking matrix.
+- [**Example Tracker**](https://github.com/matt-snyder-stuff/Security-Maturity-Tracking/blob/main/Security%20Program%20Tracking%20Template%20-%20With%20Examples.xlsx): A pre-filled tracker with examples to guide usage and setup.
+
+These files are essential for maintaining a clear and organized record of the program's status and future plans. Users can update or analyze these CSV files to evaluate their organization's maturity and track improvement over time.
+
 ### Tool Usage
+
 The evaluation tools included in the **Security Maturity Tracking Project** are designed to help users systematically assess security technologies. These tools provide structured frameworks and criteria for evaluating each domain, enabling users to identify strengths, weaknesses, and areas for improvement efficiently.
 
 The **Security Maturity Tracking Project** also includes tools to help evaluate various security technologies, including:
@@ -56,7 +65,4 @@ The **Security Maturity Tracking Project** is an essential tool for helping your
 
 With visual progress tracking and structured evaluations, stakeholders can easily understand the current status and make informed decisions, ensuring that your security posture evolves in alignment with your organization's needs.
 
-If you have any questions, suggestions, or contributions, please feel free to reach out via GitHub issues.. By visualizing progress, stakeholders can easily understand the current status and make informed decisions to allocate resources effectively.
-
 If you have any questions, suggestions, or contributions, please feel free to reach out via GitHub issues.
-
