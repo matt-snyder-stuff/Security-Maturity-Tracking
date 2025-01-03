@@ -3,9 +3,9 @@
 Welcome to the **Security Maturity Project Tracking Matrix** GitHub page! This project aims to provide a comprehensive overview of the organization's security maturity across various domains, helping stakeholders monitor, plan, and enhance security capabilities over time.
 
 
-## Overall Program Status
+## Program Overview
 
-The **Overall Program Status** provides a high-level view of the maturity levels across all security domains. This status is represented using a scoring system that tracks progress from **Initial** to **Leading** levels for each capability.
+The **Program Overview** provides a high-level view of the maturity levels across all security domains. This status is represented using a scoring system that tracks progress from **Initial** to **Leading** levels for each capability.
 
 ### Overall Status Table Example
 | **Capability**           | **Current Maturity Level** | **Target Maturity Level** | **Progress**       |
